@@ -1,5 +1,5 @@
 # NullVualt
-NullVault is a professional-grade Android forensics tool designed to support lockscreen bypassing, brute-force PIN cracking, local data extraction, file system snapshotting, and PDF reporting — all from a single Python interface.
+NullVault is a professional-grade Android Forensics & LockScreen Bypass Toolkit
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)  
 **MIT © 2025** Abhishek Bhagat
