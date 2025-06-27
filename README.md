@@ -49,7 +49,7 @@ This tool supports both rooted and non-rooted ADB-enabled Android devices and pe
 ```
 3. Install dependencies:
 ```bash
-  pip install -r requirements.txt
+  python requirements.py
 ```
 **Required tools:**
 -Python 3.x
